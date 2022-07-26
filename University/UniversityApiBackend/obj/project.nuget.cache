@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "55i+9wJaYoYEIPbZdNX5frphxpP68c+r90LHXVKauaTqcVkaummZxbrOkElV7Gl6OObZOUQv2CDb2+YvklpjcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\University\\UniversityApiBackend\\UniversityApiBackend.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
