@@ -13,6 +13,8 @@ namespace UniversityBackend.DataAccess
         // toddo: add dbsets (tablas de base de datos)
 
         public DbSet<User>? Users { get; set; }
+        public DbSet<Course>? Courses { get; set; }
+        public DbSet<Category>? Categories { get; set; }
 
 
     }
