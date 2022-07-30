@@ -24,7 +24,11 @@ namespace UniversityBackend.Models.DataModels
         [Required]
         public ICollection<Category> Categories { get; set; } =new List<Category>();
 
-        // MINUTO -15:20 ACA ME QUEDE!
+        [Required]
+        public Chapter Chapter { get; set; } = new Chapter();
+
+        [Required]
+        public ICollection<Student> students { get; set; } = new List<Student>();
 
 
     }
